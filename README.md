@@ -74,7 +74,7 @@ This project is not affiliated with or endorsed by Meta / Facebook in any way.
 
 
 
-🌐 GitHub & Repository
+### 🌐 GitHub & Repository
 
 - **MIRAI PROJECT:** **[Click Here](https://github.com/shahadat-sahu/SHAHADAT-CHAT-BOT.git)**
 
